@@ -1,7 +1,7 @@
 # azure-resource-graph
 ## Overview
 
-I am by no means an Azure Cloud expert, but my goal with this project/repo is to document my learnings as I dive into Azure Resource Explorer outside of my daily work.
+I am by no means an Azure Cloud expert, but my goal with this project/repo is to document my learnings as I dive into Azure Resource Explorer outside of my daily work. If any of these queries are helpful, feel free to bring them into your ogranization to leverage for detecting low hanging fruit, auduits, compliance, etc.
 
 I welcome any and all feedback because this is centered around giving to the Azue Dev community but as well as documenting learnings.
 
