@@ -7,9 +7,15 @@ I welcome any and all feedback because this is centered around giving to the Azu
 
 Feel free to connect with me on these social media platforms:
 
-![wookiee#4710](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.iconfinder.com%2Ficons%2F4373196%2Fdiscord_logo_logos_icon&psig=AOvVaw1jyElgoiCj1ahEfJDJNBSS&ust=1615656735406000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIiXksCkq-8CFQAAAAAdAAAAABAD)
 
-![@jayjain89](https://www.google.com/url?sa=i&url=https%3A%2F%2Flogos-world.net%2Ftwitter-logo%2F&psig=AOvVaw1ly0Ae_T9wtv_nUEahbSQs&ust=1615656754089000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPDC68ikq-8CFQAAAAAdAAAAABAI)
+<img src='https://logos-world.net/wp-content/uploads/2020/04/Twitter-Logo.png' width="50" height="30" style="vertical-align:middle;margin:10px 3px">[@jayjain89](https://twitter.com/jayjain89)</img>
+
+<img src='https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/91_Discord_logo_logos-512.png' width="50" height="50" style="vertical-align:middle;margin:10px 3px">wookiee#4710</img>
+
+<img src='https://www.fpsa.org/wp-content/uploads/linkedin-logo-copy.png' width="40" height="40"  style="vertical-align:middle;margin:10px 10px">[jayrjain](https://www.linkedin.com/in/jayrjain/)</img>
+
+
+
 
 
 
